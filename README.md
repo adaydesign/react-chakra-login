@@ -10,9 +10,6 @@
 
 ![screen shot 2](https://github.com/adaydesign/react-chakra-login/blob/main/screenshot/ss2.png?raw=true)
 
-# View Demo
-
-- http://theme2.appcodemia.com/
 
 # Github
 
